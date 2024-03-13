@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pie_Money", "Pie_Money\Pie_Money.vbproj", "{83AE7F74-851E-45B5-924A-B8DD8E79A09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83AE7F74-851E-45B5-924A-B8DD8E79A09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AE7F74-851E-45B5-924A-B8DD8E79A09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AE7F74-851E-45B5-924A-B8DD8E79A09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AE7F74-851E-45B5-924A-B8DD8E79A09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10FAD2FE-D239-48CE-88E0-D83073A3630C}
+	EndGlobalSection
+EndGlobal
